@@ -1,2 +1,2 @@
 # T
-Just basics
+T for training
